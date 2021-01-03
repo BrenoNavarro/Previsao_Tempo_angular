@@ -8,8 +8,8 @@ Implementação de uma consulta de previsão de tempo usando [Angular CLI](https
 
 ### Instalando os arquivos necessários
 
-Antes de executar a aplicação é necessário, uma única vez, rodar `npm install` na pasta do app para instalar alguns arquivos necessários.
+Antes de executar a aplicação é necessário, uma única vez, rodar `npm install` na pasta geral do app para instalar alguns arquivos necessários.
 
 ### Executando o app
 
-Execute `ng serve` ou `npm start` em algum terminal na pasta do app. Abra `http://localhost:4200/` em algum navegador. A aplicação recarregará a página automaticamente caso salve alguma alteração nos arquivos do app.
+Execute `ng serve` ou `npm start` em algum terminal na pasta geral do app. Abra `http://localhost:4200/` em algum navegador. A aplicação recarregará a página automaticamente caso salve alguma alteração nos arquivos do app.
